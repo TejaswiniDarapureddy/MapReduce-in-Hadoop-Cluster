@@ -1,1 +1,1 @@
-# MapReduce-in-Hadoop-ClusterFinding the top 10 keyword and hashtag pairs. Used twitter tweets on two keywords (NASA and SpaceX). Used Map reduce Java program to count the number of rows and also partitioned the tweets for each keyword and hashtag pair.
+Finding the top 10 keyword and hashtag pairs. Used twitter tweets on two keywords (NASA and SpaceX). Used Map reduce Java program to count the number of rows and also partitioned the tweets for each keyword and hashtag pair.
